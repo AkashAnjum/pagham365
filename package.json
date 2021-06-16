@@ -17,6 +17,7 @@
     "reactjs-popup": "^2.0.4",
     "web-vitals": "^1.0.1"
   },
+  "proxy":"https://boring-davinci-11472a.netlify.app/" ,    
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
