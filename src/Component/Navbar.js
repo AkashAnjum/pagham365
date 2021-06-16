@@ -11,7 +11,7 @@ function NavBar() {
             console.log("userInfo")
             Cookie.remove("userInfo")  
             setShow(false)
-            window.location.href = "https://quirky-goldwasser-be4cf9.netlify.app/login"
+            window.location.href = "https://boring-davinci-11472a.netlify.app/login"
   }
   useEffect(() => {
     if(mydata)
