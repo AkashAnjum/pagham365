@@ -1,0 +1,85 @@
+.App {
+  text-align: right;
+  
+}
+.forHomeCenter1{
+  float: right;
+  height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+ justify-content: center;
+}
+.linkhome{
+  margin-top: 40px;
+margin-right: 80px;
+  width: 80px;
+  height: 35px;
+  text-align: right;
+}
+.text{
+  width: 80%;
+  text-shadow: 2px 2px 5px red;
+}
+ /* for Add Topic File */
+ .Adddepart3{
+  font-size: 0.875em;
+  display: flex;
+  height: 91vh;
+ justify-content: center;
+}
+.Adddepart3login{
+  font-size: 0.875em;
+  display: flex;
+  text-align: left;
+  height: 91vh;
+ justify-content: center;
+}
+.edittopic{
+ 
+  width: 100px;
+  margin-bottom: 5px;
+}
+.deletetopic{
+  width: 100px;
+  
+}
+.ViewTopic{
+  display: flex;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+  align-content: center;
+ justify-content: center;
+}
+.topiccard{
+  margin-bottom: 8px;
+ 
+}
+.images{
+ width: 100px;
+ height: 100px;
+border-radius: 50%;
+}
+.images:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.opt{
+  color: black;
+}
+.pdfbutton{
+  text-decoration:none;
+  color:white;
+}
+.pdfbutton:hover{
+  text-decoration:none;
+  color:white;
+}
+.newpagelink{
+  color: black;
+  text-decoration: none;
+}
+.newpagelink:hover{
+  color: rgb(250, 152, 4);
+  text-decoration: none;
+}

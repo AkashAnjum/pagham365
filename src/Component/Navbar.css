@@ -1,0 +1,25 @@
+.bism{
+  color:  rgb(238, 91, 46);
+  border: 2px;
+  font-size: large;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px white;
+}
+.bism:hover{
+  color:  rgb(238, 91, 46);
+  border: 2px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px white;
+}
+.depart{
+  font-size: 0.85em;
+  text-align: right;
+}
+.App{
+ margin-bottom: 60px;
+}
+.Navabr{
+  background: #6f42c1;
+}
