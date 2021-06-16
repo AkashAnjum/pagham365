@@ -64,7 +64,7 @@ export default NavBar;
           //   <div class="dropdown-content">
           //     <Link class="link2" >سب عنوانات درج کریں</Link>
           //     <Link class="link2" >سب عنوانات دیکھیں</Link>
-
+ 
           //   </div>
           // </li>
           // <li class="dropdown">
