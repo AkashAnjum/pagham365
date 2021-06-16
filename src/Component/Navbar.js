@@ -11,7 +11,7 @@ function NavBar() {
             console.log("userInfo")
             Cookie.remove("userInfo")  
             setShow(false)
-            window.location.href = "https://boring-davinci-11472a.netlify.app/login"
+            window.location.href = "https://pagham365.herokuapp.com/login"
   }
   useEffect(() => {
     if(mydata)
