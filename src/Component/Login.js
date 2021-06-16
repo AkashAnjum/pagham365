@@ -21,7 +21,7 @@ export default function Login(props) {
             console.log(response.data) 
             if(response.data=='Login successfully'){
                 Cookie.set('userInfo', (response.data));
-                window.location.href = "https://boring-davinci-11472a.netlify.app/"
+                window.location.href = "https://pagham365.herokuapp.com/"
             }
             else{
              alert(response.data)
